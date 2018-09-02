@@ -297,7 +297,7 @@ msgstr "Notifiche"
 #: matches/templates/matches/matches_inline.html:146
 #: matches/templates/matches/matches_inline.html:148 templates/base.html:246
 msgid "Favorites"
-msgstr ""
+msgstr "Preferiti"
 
 #: comments/templates/profiles/comment_list.html:27
 msgid "User didn't leave any comments"
@@ -2211,7 +2211,7 @@ msgstr "%(win_count)s su %(pick_count)s partite"
 #: teams/templates/teams/team_overview.html:103
 #, python-format
 msgid "Deaths: %(deaths)s"
-msgstr ""
+msgstr "Morti: %(deaths)"
 
 #: teams/templates/teams/team_overview.html:104
 #, python-format
@@ -2281,7 +2281,8 @@ msgstr "Patch Dehaka"
 msgid ""
 "* KDA, time spend dead and average match time are based on the analysis of "
 "the %(replay_count)s replays out of %(match_count)s matches"
-msgstr ""
+msgstr "* Il KDA, il tempo speso in morte e la durata media della partita è basato sull'analisi di "
+"%(replay_count) replay su %(match_count) partite"
 
 #: teams/templates/teams/team_overview.html:251
 #, fuzzy
@@ -2404,7 +2405,7 @@ msgstr "Ricerca"
 
 #: templates/base.html:275
 msgid "License agreement"
-msgstr ""
+msgstr "Licenza d'uso"
 
 #: templates/base.html:278
 msgid ""
@@ -2418,10 +2419,19 @@ msgid ""
 "Refer to the full text of the license for the details:\n"
 "                "
 msgstr ""
+"\n"
+"Ti vogliamo ricordare che quando usi i nostri dati direttamente, tramite le <a href="
+"\"https://api.masterleague.net/\">API</a>, o in altri modi,\n"
+"<strong>DEVI</strong> seguire i termini delle nostre licenze e di aggiungergi ai crediti "
+"appropriatamente mettendo un link che manda\n"
+"al nostro sito, menzionandoci in diretta, o rendendo chiara la fonte dell'informazione o "
+"in altri modi.\n"
+"Fai riferimento al testo completo della licenza per ulteriori dettagli:\n"
+"                "
 
 #: templates/base.html:286
 msgid "I understood"
-msgstr ""
+msgstr "Capito"
 
 #: templates/base.html:328
 msgid "Help us localize the site!"
